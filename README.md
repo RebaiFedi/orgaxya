@@ -10,7 +10,7 @@
 
 1. **Cloner le dépôt**
    ```bash
-   git clone <url-du-repo>
+   git clone https://github.com/RebaiFedi/orgaxya.git
    cd projet
    ```
 
