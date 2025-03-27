@@ -11,7 +11,7 @@
 1. **Cloner le dépôt**
    ```bash
    git clone https://github.com/RebaiFedi/orgaxya.git
-   cd projet
+   cd orgaxya
    ```
 
 2. **Installer les dépendances**
